@@ -24,8 +24,12 @@
         - Priority Level
         - Progress Level
 
-        ![task form page]([https://robogarden-new.s3-us-west-2.amazonaws.com/RGU+Bootcamp+FS/Projects/step+2-.png])
+    
+!["task form page"](https://robogarden-new.s3-us-west-2.amazonaws.com/RGU+Bootcamp+FS/Projects/step+2-.png)
 </details>
+
+
+
 <details>
     <summary>3. View the HTML page on the browser</summary>
 
@@ -37,7 +41,7 @@
     1. Create a new HTML file called tasks.html and add the default html tags.
     2. Add an HTML table to the page like the one in the screenshot below:
 
-    ![Display task page](https://robogarden-new.s3-us-west-2.amazonaws.com/RGU+Bootcamp+FS/Projects/display+task+page.png)
+!["Display task page"](https://robogarden-new.s3-us-west-2.amazonaws.com/RGU+Bootcamp+FS/Projects/display+task+page.png)
 </details>
 <details>
     <summary>5. Commit changes to the repository</summary>
