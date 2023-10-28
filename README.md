@@ -95,8 +95,6 @@ git add.
 git commit -m "Added CSS styling to tasks.html"
 ```
 
-!["Table"](https://robogarden-new.s3-us-west-2.amazonaws.com/RGU+Bootcamp+FS/Projects/table.png)
-
 </details>
 
 5. To push or upload your work to Github, look at section "Create a Github repository" in Git/Github tutorial.
